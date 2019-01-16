@@ -35,7 +35,7 @@ Kudos to the authors of iText for making it possible!
 /FAQ.txt ............ Some answers to Frequently Asked Questions
 /RELEASE.txt ........ Release change notes
 /build.xml .......... Demonstrates usage of PDFDoclet with ANT
-/example.sh ......... Demonstrates usage of PDFDoclet with a script
+/init.sh ......... Demonstrates usage of PDFDoclet with a script
 /docs/ .............. HTML documentation (usage, configuration etc.)
 /jar/ ......,........ All required libraries
 /example/html ....... Example source tree for creating example PDF
@@ -55,7 +55,7 @@ versions older than 1.4.
 --------
 You can find examples for how to run the PDFDoclet with 
 ANT in the file "build.xml". There is also an example 
-shell-script "example.sh" which shows how to call the 
+shell-script "init.sh" which shows how to call the 
 doclet directly with javadoc (just set the JAVA_HOME
 environment variable correctly in the script).
 
